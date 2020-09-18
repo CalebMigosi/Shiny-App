@@ -1,0 +1,40 @@
+Libellé émission;latitude;longitude;result_label;result_score;result_type;result_id;result_housenumber;result_name;result_street;result_postcode;result_city;result_context;result_citycode
+7 rue Louis Blanc Cannes 06;43.552635;7.012817;7 Rue Louis Blanc 06400 Cannes;0.82;housenumber;ADRNIVX_0000000261764374;7;Rue Louis Blanc;;06400;Cannes;06, Alpes-Maritimes, Provence-Alpes-Côte d'Azur;06029
+Centre commercial Vernouillet 78;50.617958;3.129217;Centre Commercial Villeneuve 2 59650 Villeneuve-d'Ascq;0.55;locality;59009_XXXX_11fce9;;Centre Commercial Villeneuve 2;;59650;Villeneuve-d'Ascq;59, Nord, Hauts-de-France (Nord-Pas-de-Calais);59009
+15 rue d' Astorg Paris 08;48.873054;2.319424;15 Rue d'Astorg 75008 Paris;0.82;housenumber;ADRNIVX_0000000270742636;15;Rue d'Astorg;;75008;Paris;75, Paris, Île-de-France;75108
+2 rue de la Voie Lactee Le Mans 72;47.995462;0.189062;2 Rue de la Voie Lactée 72100 Le Mans;0.84;housenumber;ADRNIVX_0000000273140944;2;Rue de la Voie Lactée;;72100;Le Mans;72, Sarthe, Pays-de-la-Loire;72181
+98/100 rue de Courcelles Paris 17;48.879573;2.302783;100 Rue de Courcelles 75017 Paris;0.78;housenumber;ADRNIVX_0000000270731247;100;Rue de Courcelles;;75017;Paris;75, Paris, Île-de-France;75117
+33-35 rue du Mail Paris 2;48.866821;2.342522;Rue du Mail 75002 Paris;0.64;street;75102_5913_e032a3;;Rue du Mail;;75002;Paris;75, Paris, Île-de-France;75102
+60 rue Lamartine Paris 09;48.876696;2.33953;60 Rue Lamartine 75009 Paris;0.83;housenumber;ADRNIVX_0000000270736695;60;Rue Lamartine;;75009;Paris;75, Paris, Île-de-France;75109
+Le Rve d'Or boulevard du Leader Cannes 06;43.562396;6.989221;Boulevard Leader 06150 Cannes;0.52;street;06029_XXXX_b71ebe;;Boulevard Leader;;06150;Cannes;06, Alpes-Maritimes, Provence-Alpes-Côte d'Azur;06029
+Le Capitole cours Gambetta Lyon 69;45.752482;4.850763;Cours Gambetta 69007 Lyon;0.53;street;69387_XXXX_6c0acf;;Cours Gambetta;;69007;Lyon;69, Rhône, Auvergne-Rhône-Alpes (Rhône-Alpes);69387
+Alle du Prado Marseille 13;43.265498;5.373866;Allée Prado Bleu 13008 Marseille;0.63;street;13208_XXXX_f53047;;Allée Prado Bleu;;13008;Marseille;13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur;13208
+Le Printemps Nancy 67;46.745738;-1.53184;Le Printemps 85170 Le Poiré-sur-Vie;0.51;street;85178_B301_48cf02;;Le Printemps;;85170;Le Poiré-sur-Vie;85, Vendée, Pays-de-la-Loire;85178
+Central Park Toulouse 31;44.289084;6.569334;Le Central Park 04260 Allos;0.44;locality;04006_XXXX_57b643;;Le Central Park;;04260;Allos;04, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur;04006
+Rue Edouard Vaillant Tours 37;47.382932;0.703643;Rue Édouard Vaillant 37000 Tours;0.85;street;37261_1620_d6ee58;;Rue Édouard Vaillant;;37000;Tours;37, Indre-et-Loire, Centre-Val de Loire;37261
+36 rue de Chateaudun Paris 9;48.876238;2.335979;36 Rue de Châteaudun 75009 Paris;0.88;housenumber;ADRNIVX_0000000270736711;36;Rue de Châteaudun;;75009;Paris;75, Paris, Île-de-France;75109
+Triel sur Seine 78;48.979811;2.005441;Triel-sur-Seine;0.81;municipality;78624;;Triel-sur-Seine;;78510;Triel-sur-Seine;78, Yvelines, Île-de-France;78624
+Parcelle A 713 Medan 78;43.692699;-1.055002;Route de la Parcelle 40100 Dax;0.28;street;40088_XXXX_cb32f2;;Route de la Parcelle;;40100;Dax;40, Landes, Nouvelle-Aquitaine (Aquitaine);40088
+Vernouillet 78;48.971524;1.982378;Vernouillet;0.75;municipality;78643;;Vernouillet;;78540;Vernouillet;78, Yvelines, Île-de-France;78643
+13 Rue Fenelon Paris 10;48.878939;2.351376;13 Rue Fénelon 75010 Paris;0.81;housenumber;ADRNIVX_0000000270732476;13;Rue Fénelon;;75010;Paris;75, Paris, Île-de-France;75110
+10 av des Fleurs Nice 06;43.697824;7.254218;10 Avenue Fleurs 06000 Nice;0.57;housenumber;ADRNIVX_0000000312943226;10;Avenue Fleurs;;06000;Nice;06, Alpes-Maritimes, Provence-Alpes-Côte d'Azur;06088
+2 rue Villersexel Paris 7;48.858736;2.324544;2 Rue de Villersexel 75007 Paris;0.77;housenumber;ADRNIVX_0000000270769947;2;Rue de Villersexel;;75007;Paris;75, Paris, Île-de-France;75107
+106 rue Danton Levallois 92;48.892846;2.281326;106 Rue Danton 92300 Levallois-Perret;0.7;housenumber;ADRNIVX_0000000287115705;106;Rue Danton;;92300;Levallois-Perret;92, Hauts-de-Seine, Île-de-France;92044
+Vernouillet 78;48.971524;1.982378;Vernouillet;0.75;municipality;78643;;Vernouillet;;78540;Vernouillet;78, Yvelines, Île-de-France;78643
+4-8 quai de Seine Saint-Ouen 93;48.913949;2.317023;8 Quai de Seine 93400 Saint-Ouen-sur-Seine;0.62;housenumber;ADRNIVX_0000000268226844;8;Quai de Seine;;93400;Saint-Ouen-sur-Seine;93, Seine-Saint-Denis, Île-de-France;93070
+Les Halles Nimes 30;43.839103;4.359163;Rue des Halles 30000 Nîmes;0.58;street;30189_4000_32ba56;;Rue des Halles;;30000;Nîmes;30, Gard, Occitanie (Languedoc-Roussillon);30189
+Juvenel Nimes 30;43.820621;4.343645;Impasse Juvénal 30900 Nîmes;0.4;street;30189_XXXX_68e146;;Impasse Juvénal;;30900;Nîmes;30, Gard, Occitanie (Languedoc-Roussillon);30189
+Foret de Belloy Belloy 60;49.541167;2.746881;Rue de Belloy 60490 Ressons-sur-Matz;0.38;street;60533_0700_dc65b6;;Rue de Belloy;;60490;Ressons-sur-Matz;60, Oise, Hauts-de-France (Picardie);60533
+Tennis p39 Verneuil 78;48.978669;1.978971;Rue du Maréchal Koenig 78480 Verneuil-sur-Seine;0.22;street;78642_0307_1507c7;;Rue du Maréchal Koenig;;78480;Verneuil-sur-Seine;78, Yvelines, Île-de-France;78642
+Medan 78;48.952745;1.995035;Médan;0.64;municipality;78384;;Médan;;78670;Médan;78, Yvelines, Île-de-France;78384
+Central Park 2 Toulouse 31;44.289084;6.569334;Le Central Park 04260 Allos;0.41;locality;04006_XXXX_57b643;;Le Central Park;;04260;Allos;04, Alpes-de-Haute-Provence, Provence-Alpes-Côte d'Azur;04006
+2-10 rue Nationale Lille 59;50.637071;3.062359;10 Rue Nationale 59800 Lille;0.77;housenumber;ADRNIVX_0000000327398993;10;Rue Nationale;;59800;Lille;59, Nord, Hauts-de-France (Nord-Pas-de-Calais);59350
+Boulevard de la Saussaye Neuilly 92;48.891691;2.267867;Boulevard de la Saussaye 92200 Neuilly-sur-Seine;0.7;street;92051_XXXX_7bb55d;;Boulevard de la Saussaye;;92200;Neuilly-sur-Seine;92, Hauts-de-Seine, Île-de-France;92051
+15 Rue Fenelon Paris 10;48.879063;2.351409;15 Rue Fénelon 75010 Paris;0.81;housenumber;ADRNIVX_0000000270732477;15;Rue Fénelon;;75010;Paris;75, Paris, Île-de-France;75110
+69 rue de la Victoire Paris 9;48.875181;2.333361;69 Rue de la Victoire 75009 Paris;0.88;housenumber;ADRNIVX_0000000270739073;69;Rue de la Victoire;;75009;Paris;75, Paris, Île-de-France;75109
+dornbusch 2/4 Hambourg;46.033781;-1.38343;Impasse des Quatre Tambours 17650 Saint-Denis-d'Oléron;0.11;street;17323_XXXX_b597a2;;Impasse des Quatre Tambours;;17650;Saint-Denis-d'Oléron;17, Charente-Maritime, Nouvelle-Aquitaine (Poitou-Charentes);17323
+Avenue Pierre Mend‚s France - Elements;48.335465;-2.459801;LA METAIRIE D'EN HAUT S-GO (Le Gouray) 22330 Le Mené;0.22;locality;22046_XXXX_f91ff4;;LA METAIRIE D'EN HAUT S-GO (Le Gouray);;22330;Le Mené;22, Côtes-d'Armor, Bretagne;22046
+26 rue Marbeuf Paris 8;48.868984;2.304422;26 Rue Marbeuf 75008 Paris;0.86;housenumber;ADRNIVX_0000000270751140;26;Rue Marbeuf;;75008;Paris;75, Paris, Île-de-France;75108
+90 rue Ledru Rollin Paris 11;48.85145;2.3764;90 Avenue Ledru-Rollin 75011 Paris;0.66;housenumber;ADRNIVX_0000000270784772;90;Avenue Ledru-Rollin;;75011;Paris;75, Paris, Île-de-France;75111
+17/19 Rue Daunou Paris 2;48.869916;2.330594;19 Rue Daunou 75002 Paris;0.74;housenumber;ADRNIVX_0000000270749038;19;Rue Daunou;;75002;Paris;75, Paris, Île-de-France;75102
+34 rue Patou Lille 59;50.634828;3.050437;34 Rue Patou 59800 Lille;0.81;housenumber;ADRNIVX_0000000358706405;34;Rue Patou;;59800;Lille;59, Nord, Hauts-de-France (Nord-Pas-de-Calais);59350
