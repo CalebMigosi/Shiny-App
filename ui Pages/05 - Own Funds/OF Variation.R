@@ -1,0 +1,15 @@
+fluidRow(column(6, box(status = "primary",
+             solidHeader = T,
+             collapsible = F,
+             title = "Singlewise Impacts",
+             #background = "black",
+             width=12,
+             plotlyOutput("SinglewisePlot"))),
+         
+         column(6, box(status = "primary",
+                       solidHeader = T,
+                       collapsible = F,
+                       title = "Impacts",
+                       #background = "black",
+                       width=12,
+                       plotlyOutput("Total_Loss_Plot"))))
